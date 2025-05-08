@@ -48,8 +48,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/DeniseNunesDev/DeniseNunesDev/output/snake.svg" alt="Snake animation" />
 
 ###
